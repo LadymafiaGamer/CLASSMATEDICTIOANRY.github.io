@@ -7,3 +7,7 @@ This is a fun project done with my friend to gift a dictionary to our Mam becaus
 (Second API)As a second API I am using WordNik API.
 Use The Dictionary
 The website is also hosted on github if you want to see that out then 
+
+# URL 
+
+https://ladymafiagamer.github.io/ClassmateDictionary.github.io/
